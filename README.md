@@ -1,0 +1,1 @@
+Minha primeira Api, realizada no modelo Restful com as tecnologias JavaScript, Node.js, Express e os teste realizados no Postman, a database utilizada foi através de um arquivo Json um array com informações ficticias de alguns usuários.
