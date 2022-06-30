@@ -1,0 +1,39 @@
+[
+    {
+        "nome": "luiz felipe",
+        "id": 1,
+        "idade": 5
+    },
+    {
+        "nome": "renan oliveira",
+        "id": 2,
+        "idade": 6
+    },
+    {
+        "nome": "danilo alves",
+        "id": 3,
+        "idade": 12
+    },
+    
+    {
+        "nome": "julia souza",
+        "id": 4,
+        "idade": 2
+    },
+    {
+        "nome": "gustavo gomes",
+        "id": 5,
+        "idade": 18
+    },
+    {
+        "nome": "andré luiz",
+        "id": 6,
+        "idade": 17
+    },
+    {
+        "nome": "laís teixeira",
+        "id": 7,
+        "idade": 11
+    }
+
+]
